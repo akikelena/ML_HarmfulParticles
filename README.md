@@ -17,6 +17,7 @@ This project includes following steps:
 
 2. Creation of a linear regression model
 - split data into 3 sets - training/validation/testing
+! validation not finished !
 - try different hypotheses
 - try different regularization types
 - choose the best linear regression model
