@@ -1,4 +1,4 @@
-# AnalysisLinRegClssf_HarmfulParticles
+# ML_HarmfulParticles
 Machine learning project for the purpose of pattern recognition course. 
 
 The database which is used for the purpose of this project contains 52584 samples, where each of them is described with 17 features.
@@ -17,7 +17,7 @@ This project includes following steps:
 
 2. Creation of a linear regression model
 - split data into 3 sets - training/validation/testing
-! validation not finished !
+* ! validation not finished !
 - try different hypotheses
 - try different regularization types
 - choose the best linear regression model
